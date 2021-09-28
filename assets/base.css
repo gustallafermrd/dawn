@@ -1790,7 +1790,8 @@ input[type='checkbox'] {
 }
 
 .shopify-section-header-sticky {
-  position: sticky;
+  /* position: sticky; */
+  position: fixed;
   top: 0;
 }
 
